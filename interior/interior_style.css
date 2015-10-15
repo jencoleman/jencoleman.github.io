@@ -71,14 +71,15 @@
   margin-right: 33px;
   margin-top: 20px;
   border-radius: 5px;
-  border-color: #FFE7B3;
-  border: 1px;
+  border-color: #747371;
+  border: 2px;
 }
 .right {
   margin-top: 20px;
   margin-left: 33px;
   border-radius: 5px;
-  border: 3px;
+  border: 2px;
+  border-color: #747371;
 }
 #footer {
   border-width: 1px 0px 0px 0px;
